@@ -1,0 +1,9 @@
+## IMPORTANT NOTICE:
+```
+ - Please use this source code as best as possible. Download and save
+    this source code to your computer. Thank You.
+
+
+-------------------
+copyrigth © palma
+```
